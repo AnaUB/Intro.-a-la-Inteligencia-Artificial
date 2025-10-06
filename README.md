@@ -1,4 +1,4 @@
-# Intro.-a-la-Inteligencia-Artificial
+# IntroIA
 
 Estudiante: Ana María Uribe Betancur
 
